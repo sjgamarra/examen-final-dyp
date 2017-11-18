@@ -6,10 +6,7 @@ Para cada pregunta se debe presentar el diseño UML y el código fuente en githu
 - El nuevo Client.java debe mostrar la misma información, y el método main no debe exceder 10 líneas de código.
 
 # Pregunta 2 (3 puntos)
-- Indicar los patrones actualmente implementados.
-	-Factory Method
-	-Observer
-	-Adapter
+- Indicar los patrones actualmente implementados. (Factory Method, Observer, Adapter)
 - Soportar la red social Pinterest.
 - Aplicar el patrón Adapter de clase y objeto.
 
