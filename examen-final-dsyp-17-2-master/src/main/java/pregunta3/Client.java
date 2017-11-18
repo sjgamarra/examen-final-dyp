@@ -23,6 +23,7 @@ public class Client {
         }
     }
     
+  //esto se hace con recursividad!!
     public static boolean hasDuplicateValuesCuadratic(int[] numbers)
     {
         long steps = 0;
@@ -37,7 +38,7 @@ public class Client {
         }
         System.out.println(steps + " steps");
         return false;
-    }
+    }    
     
     public static boolean hasDuplicateValuesLineal(int[] numbers)
     {        
